@@ -35,22 +35,11 @@ Built with best practices in data security and performance optimization.
 
 | Category | Technologies |
 |-----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript (React or Flask-HTML Templates) |
-| **Backend** | Python (Flask / Django) |
-| **Data Analysis** | Pandas, NumPy, Scikit-learn |
-| **Visualization** | Plotly, Matplotlib, Chart.js |
-| **Database** | SQLite / PostgreSQL |
+| **Frontend** | React, MaterialUI, Typescript |
+| **Backend** | Nodejs, Express, Mongoose|
+| **Visualization** | REchart, MaterialUI, Regression |
+| **Database** | MongoDB |
 | **Version Control** | Git & GitHub |
-
----
-
-## ⚙️ How It Works  
-
-1. **Upload** your financial dataset (CSV or Excel).  
-2. **Analyze** data automatically — clean, preprocess, and aggregate key metrics.  
-3. **Visualize** dashboards that display trends, distributions, and forecasts.  
-4. **Predict** profits using regression and trend models.  
-5. **Make decisions** backed by real-time insights and data-driven clarity.  
 
 ---
 | Type              | Example            |
@@ -59,16 +48,6 @@ Built with best practices in data security and performance optimization.
 | Expense Breakdown | 🥧 Pie Chart       |
 | Profit Forecast   | 🔮 Regression Plot |
 | Cash Flow Summary | 💰 Bar Graph       |
-
----
-
-## 🚀 Future Enhancements
-
-Integration with APIs (QuickBooks, Google Sheets, etc.)
-User authentication and multi-user dashboards
-Advanced forecasting using LSTM or Prophet models
-Export reports in PDF and Excel formats
-Cloud deployment on Render / Vercel
 
 ---
 
